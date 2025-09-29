@@ -18,6 +18,9 @@ app.use(cors())
 
 
 const PORT=process.env.PORT || 3000
+app.get("/", (req, res) => {
+  res.send("✅ ToDoList API is working!");
+});
 
 ///// ROUTER
 app.use("/",authRouter)
