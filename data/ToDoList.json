@@ -1,0 +1,32 @@
+[
+    {
+        "id": "30d1aeca-aab1-4073-93cb-6d7bf5f82ed9",
+        "ToDo": "Ertalabgi yugirish",
+        "time": "06:30",
+        "completed": false
+    },
+    {
+        "id": "a50a19c9-4425-4c5b-9f2f-2f5d9ae87e1e",
+        "ToDo": "Nonushta",
+        "time": "08:00",
+        "completed": false
+    },
+    {
+        "id": "a7119df9-5375-427f-993b-b7d5efcbb1df",
+        "ToDo": "Dars boshlanishi",
+        "time": "10:00",
+        "completed": false
+    },
+    {
+        "id": "2af4f218-a10e-4437-991a-5177bd359a1c",
+        "ToDo": "Tushlik",
+        "time": "12:30",
+        "completed": false
+    },
+    {
+        "id": "9d86e956-3db7-4659-9804-586fac94e5d5",
+        "ToDo": "Uyga vazifa",
+        "time": "14:00",
+        "completed": false
+    }
+]
